@@ -13,9 +13,7 @@ namespace ConsoleApplication1
             int max = int.Parse(Console.ReadLine());
             while (max != 0)
             {
-                Console.Write("Enter your name here ----> ");
-                string name = Console.ReadLine();
-                Console.WriteLine("Bravo!");
+                Console.Write("Hi");
             }
         }
     }
